@@ -1,0 +1,16 @@
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.AssemblyReference.cache
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Splash.resources
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.AddProduct.resources
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Login.resources
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.MainForm.resources
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Selling.resources
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.ProdNameID.resources
+C:\Users\Boss\Desktop\Code\C#\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Register.resources
